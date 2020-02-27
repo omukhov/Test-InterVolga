@@ -11,6 +11,8 @@
 
 <?php
 
-echo ('Hello'); ?>
+echo ('second');
+echo 2+2+1;
+?>
 
 </body>
